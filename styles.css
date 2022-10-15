@@ -1,9 +1,22 @@
 body{
-    background-color: yellow;
+    background: yellow;
     font-family:Arial, Helvetica, sans-serif;
 }
 
-h1{
-    color: tomato;
+.assignment {
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+    background: lightgoldenrodyellow;
+}
+
+.assignment img { 
+   width: 200px;
+   padding: 10px;
+}
+
+
+h1 {
+    color: t omato;
     text-align: center;
 }
